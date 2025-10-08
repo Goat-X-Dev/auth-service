@@ -63,3 +63,5 @@ jobs:
 #            docker stop my-service || true
 #            docker rm my-service || true
 #            docker run -d -p 8080:8080 --name auth-service --rm lakshaybxt/auth-service:1.0.0
+
+
